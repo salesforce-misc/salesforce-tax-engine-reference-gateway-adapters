@@ -1,10 +1,6 @@
-# README
 
-A repo containing all the basic file templates and general guidelines for any open source project at Salesforce.
+# TaxReference-Implementations-V1
 
-## Usage
+This repository contains reference implementations for Avalara Tax Engine Adapter along with one dummy implementation called MockAdapter.This code works with release version 258 and above.
 
-It's required that all files must be placed at the top level of your repository.
-
-> **NOTE** Your README should contain detailed, useful information about the project!
-
+**DISCLAIMER** The code examples in this repository aren't production grade and aren't supposed to be used in production. We don't actively develop and support this code. Their sole purpose is to serve as examples for partners who can write and publish their own adapters on AppExchange. 
